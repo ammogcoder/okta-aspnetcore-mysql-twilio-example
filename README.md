@@ -6,7 +6,7 @@ This tutorial walks you through building simple CRUD application using Twilio, A
 Clone the repository by running:
 
 ```sh
-git clone 
+git clone https://github.com/oktadeveloper/okta-aspnetcore-mysql-twilio-example.git
 ```
 
 ## License
